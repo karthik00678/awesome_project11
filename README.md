@@ -8,6 +8,6 @@ Pre req:
 PostgresQL
 Docker
 
-Can run 
+Can run:
 
 docker compose up -d --build
